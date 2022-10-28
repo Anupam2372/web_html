@@ -1,1 +1,1 @@
-## Basic website in HTML and CSS
+## Basic starter website in HTML and CSS
